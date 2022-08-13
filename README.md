@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @sase6
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning software engineering at Hack Reactor
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me //sase#3609 -> discord
+Hello World. I am Sase :)
 
-<!---
-sase6/sase6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am curently working on a project to reference data
+via QR codes. 
+
+I enjoy solving problems by creating more problems and 
+debugging them. I love to connect with others and create
+things. 
+
+Please reach out to me via LinkedIn https://www.linkedin.com/in/sasenarine-ramaischrand/
