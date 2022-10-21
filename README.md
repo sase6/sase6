@@ -1,9 +1,9 @@
-Hello World. I am Sase :)
+Hello World. I'm Sase... Like 6 in spanish... kinda :)
 
-I am curently working on a web-based sandbox survival game :0
+I'm currently working on an app for Barbers.
 
 I enjoy solving problems by creating more problems and 
-debugging them. I love to connect with others and create
+debugging them. I also love to connect with others and create
 things. 
 
 Please reach out to me via LinkedIn https://www.linkedin.com/in/sasenarine-ramaischrand/
